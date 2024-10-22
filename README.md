@@ -1,8 +1,22 @@
-# React + Vite
+# Account Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app allowing users to register, log in, and manage their account. The app is styled using Bootstrap and includes basic form validation.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the app locally:
+
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start`
+
+## Features
+
+- User registration
+- User login
+- Update account information
+
+## Dependencies
+
+- React 16+
+- Bootstrap
